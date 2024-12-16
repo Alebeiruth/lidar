@@ -1,0 +1,1 @@
+Projeto apresenta uma nuvem de pontos obtidas do sensor LIDAR, onde essa tarefa solicita coordenadas surgidas por 30 posições obtidas de um carro. Primeiro codigo que tenho contato com pontos de nuvem obtidos de um IOT. 
